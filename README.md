@@ -5,7 +5,7 @@
 
 Ubuntu/Debian: ``apt-get install sshpass`` \
 Fedora/CentOS: ``yum install sshpass`` \
-Arch: ``pacman -S sshpass`` \
+Arch: ``pacman -S sshpass`` 
 
 **Example:**
 
