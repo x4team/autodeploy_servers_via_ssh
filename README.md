@@ -1,7 +1,7 @@
 # autodeploy_servers_via_ssh
 
 
-##First you need to install sshpass.##
+## First you need to install sshpass.
 
 Ubuntu/Debian: ``apt-get install sshpass``
 Fedora/CentOS: ``yum install sshpass``
